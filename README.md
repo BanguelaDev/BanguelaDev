@@ -1,59 +1,36 @@
-## Olá, meu nome é José Guilherme!
+<div align="center">
 
-### ⚙️ GitHub Analytics
+# José Guilherme
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=BanguelaDev&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanguelaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=BanguelaDev&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+### Desenvolvedor de jogos e sistemas
 
---- 
+Crio experiências no Roblox, interfaces e sistemas utilizando Luau.
 
-### 🏆 GitHub Profile Trophy
+[Projetos](https://github.com/BanguelaDev?tab=repositories) • [Perfil](https://github.com/BanguelaDev)
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=BanguelaDev&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+</div>
+
+---
+
+## Sobre mim
+
+- Desenvolvedor focado em **Roblox Studio**
+- Trabalho principalmente com **Luau**
+- Gosto de criar sistemas, interfaces e mecânicas de jogos
+- Sempre buscando melhorar a organização e a qualidade dos meus projetos
+
+## Tecnologias
+
+`Luau` · `Lua` · `Roblox Studio` · `Git` · `GitHub`
+
+## Projetos
+
+Meus principais projetos estão fixados logo abaixo neste perfil.
 
 ---
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
 
-<p align="center">
-  <img  
-    src="https://profile-counter.deno.dev/BanguelaDev/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+Feito por [José Guilherme](https://github.com/BanguelaDev)
+
+</div>
